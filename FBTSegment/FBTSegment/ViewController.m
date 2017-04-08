@@ -39,6 +39,7 @@ static CGFloat height = 40;
     // 添加第0个子控制器的view
     [self addChildVcViewIntoScrollView:0];
     NSLog(@"我提交了一次测试");
+    NSLog(@"我提交第二次测试");
 }
 /**
  *  初始化子控制器
